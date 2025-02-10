@@ -1,0 +1,11 @@
+.filterStyleClass{
+        background-color: whitesmoke;
+        border: 2px #171717;
+        border-radius: 5px;    
+}
+
+.displayStyle{
+        background-color: #171717;
+        border-radius: 5px;
+        height: 600px;
+}
